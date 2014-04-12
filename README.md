@@ -1,7 +1,7 @@
 The bases of the program are
 -Read and write Richtext Files (*.rtf)
 -Read and write any other file you wish
--Custom fonts and colour that saves to the file and now just the richtextbox\par
+-Custom fonts and colour that saves to the file and now just the richtextbox
 
 Features that are going to come
 -Word file reader
